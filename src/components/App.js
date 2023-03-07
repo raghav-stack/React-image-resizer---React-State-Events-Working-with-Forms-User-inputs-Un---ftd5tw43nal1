@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import '../styles/App.css';
-import imgSrc from "./image.jpeg";
+import imgSrc from "../image.jpeg";
 
 const App = () => {
   const [height, setHeight] = useState(320);
